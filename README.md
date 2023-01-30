@@ -5,5 +5,6 @@
 # JavaScript
 ==========
 # Bootstrap
-==========
-My WEB Project | Front-End | Back-End |
+
+MY WEB PROJECT
+
