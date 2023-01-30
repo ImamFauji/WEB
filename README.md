@@ -1,10 +1,9 @@
-# HTML
-==========
-# CSS 
-==========
-# JavaScript
-==========
-# Bootstrap
-
 MY WEB PROJECT
+# HTML
+
+# CSS 
+
+# JavaScript
+
+# Bootstrap
 
